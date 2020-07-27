@@ -1,0 +1,8 @@
+Nome: Maria Fernanda Basso
+Número USP: 11208197
+//Entrar no diretório
+cd src
+//Compilar os arquivos .java
+javac *.java
+//Executar o jogo
+java Pong
